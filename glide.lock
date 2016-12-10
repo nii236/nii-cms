@@ -1,0 +1,10 @@
+hash: 6feb58adeea273dc781681e9faf83af61389afd97744fed6f324cc50a55feb88
+updated: 2016-12-10T10:20:05.683989987+08:00
+imports:
+- name: github.com/julienschmidt/httprouter
+  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
+- name: github.com/siddontang/ledisdb
+  version: 68932326409a78e10ae6bf8b809b556940e0eb4a
+  subpackages:
+  - ledis
+testImports: []
